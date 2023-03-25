@@ -41,4 +41,4 @@ Here are some ideas to get you started:
 
 ## Connect with me 🚩
 
-[![icons8-linkedin-48](https://user-images.githubusercontent.com/103814344/195988177-fc99c9b8-b9c7-469b-bf8b-82de58bc4d7f.png)](https://www.linkedin.com/in/mithil-jogi-8b7046225/) [![instagram](https://user-images.githubusercontent.com/103814344/195999365-7248947f-7b10-4bde-9fe6-09a901dc8e32.png)](https://www.instagram.com/mithil05/)
+[![icons8-linkedin-48](https://user-images.githubusercontent.com/103814344/195988177-fc99c9b8-b9c7-469b-bf8b-82de58bc4d7f.png)](http://www.linkedin.com/in/mithiljogi05) [![instagram](https://user-images.githubusercontent.com/103814344/195999365-7248947f-7b10-4bde-9fe6-09a901dc8e32.png)](https://www.instagram.com/mithil05/)
