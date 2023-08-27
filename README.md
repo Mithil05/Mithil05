@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
  ## Skills 💪 
 
+<img src="https://github.com/Mithil05/Mithil05/assets/103814344/53cdc4f3-c096-4dbc-8f0b-c168118003d6" height="100px" width="100px" alt=""> 
 <img src="https://user-images.githubusercontent.com/103814344/196032205-5421631c-046a-4b88-81bf-01a2cd89ad6f.svg" height="65px" width="70px" alt=""> <img src="https://user-images.githubusercontent.com/103814344/195998286-7fc95d67-a32d-40b6-9e60-4df7a4d18343.svg" height="65px" width="100px" alt=""> 
 <img src="https://user-images.githubusercontent.com/103814344/196032221-2e670894-2511-412b-8928-ef34c66d5740.svg" height="65px" width="70px" alt=""> 
 <img src="https://user-images.githubusercontent.com/103814344/196032193-257fe3f1-cd9a-45e9-aea9-47b926211f6d.svg" height="65px" width="70px" alt=""> 
