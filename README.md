@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <img src="https://user-images.githubusercontent.com/103814344/196032205-5421631c-046a-4b88-81bf-01a2cd89ad6f.svg" height="65px" width="70px" alt=""> <img src="https://user-images.githubusercontent.com/103814344/195998286-7fc95d67-a32d-40b6-9e60-4df7a4d18343.svg" height="65px" width="100px" alt=""> 
 <img src="https://user-images.githubusercontent.com/103814344/196032221-2e670894-2511-412b-8928-ef34c66d5740.svg" height="65px" width="70px" alt=""> 
-<img src="https://user-images.githubusercontent.com/103814344/263529998-53cdc4f3-c096-4dbc-8f0b-c168118003d6.png" height="70px" width="100px" alt=""> 
+<img src="https://user-images.githubusercontent.com/103814344/263530537-5077a889-04ff-4757-9e14-ae3d0439e5f5.png" height="70px" width="90px" alt=""> 
 <img src="https://user-images.githubusercontent.com/103814344/196032193-257fe3f1-cd9a-45e9-aea9-47b926211f6d.svg" height="65px" width="70px" alt=""> 
 <img src="https://user-images.githubusercontent.com/103814344/196032200-9753e1bc-aa47-4272-8c6c-31ab970fbb15.svg" height="65px" width="70px" alt=""> 
 <img src="https://user-images.githubusercontent.com/103814344/196032197-999186be-b707-4fcf-a9db-f9bd46b695ba.svg" height="65px" width="70px" alt=""> 
