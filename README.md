@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 -->
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning DevOps 
-- 🔥 I am also enhancing myself in the field of Deveopment and DevOps 
+- 🌱 I’m currently looking to work on flask projects
+- 🔥 I am also enhancing myself in the field of Deveopment and AI/ML
 - 🔭 I’m looking to collaborate on Open Source Projects
 - 📫 Reach out to me: [Email](mailto:mithiljogi@gmail.com)
 - 🧑 More of me at my [Portfolio Website](https://mithiljogi2003.netlify.com/)
