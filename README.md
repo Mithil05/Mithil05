@@ -1,19 +1,20 @@
-![Hi, I am resized](https://user-images.githubusercontent.com/103814344/195987700-7573a47b-b477-49b4-bce4-d44e81732cef.png)
 
+![Hi, I am (1)](https://github.com/user-attachments/assets/096e086b-db49-4a1a-a149-4cd3d30324ea)
 
 
 <!--
+![Hi, I am resized](https://user-images.githubusercontent.com/103814344/195987700-7573a47b-b477-49b4-bce4-d44e81732cef.png)
+
 **Mithil05/Mithil05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
 ## 🙋‍♂️ About Me
-
-- 🌱 I’m currently looking to work on flask projects
+- 🧑 I'm Software Developer, DSA and ML Enthusiast
+- 🌱 I’m currently learning Python and Golang
 - 🔥 I am also enhancing myself in the field of Deveopment and AI/ML
 - 🔭 I’m looking to collaborate on Open Source Projects
 - 📫 Reach out to me: [Email](mailto:mithiljogi@gmail.com)
-- 🧑 More of me at my [Portfolio Website](https://mithiljogi2003.netlify.com/)
 - ⏩ My LinkedIn profile: [Mithil_Jogi](http://www.linkedin.com/in/mithiljogi05)
 <!-- -  ![icons8-linkedin-48](https://user-images.githubusercontent.com/103814344/195988177-fc99c9b8-b9c7-469b-bf8b-82de58bc4d7f.png) -->
 <!-- - 😄 Pronouns: ... -->
